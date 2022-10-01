@@ -1,7 +1,7 @@
 {
     "name": "morkcode/filament-mrk",
     "type": "package",
-    "description": "filament-mrk Personal addons for Filament",
+    "description": "Filament-mrk Personal addons for Filament",
     "keywords": [
         "laravel",
         "filament",

@@ -5,8 +5,6 @@ namespace FilamentMrk;
 use Filament\PluginServiceProvider;
 use Spatie\LaravelPackageTools\Package;
 
-// use Filament\Facades\Filament;
-
 class FilamentMrkServiceProvider extends PluginServiceProvider
 {
     public static string $name = 'filament-mrk';
